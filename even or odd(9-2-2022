@@ -1,0 +1,10 @@
+num = int(input("a"))
+if (num % 2) == 0:
+   print("even")
+else:
+   print("odd")
+   
+output:
+a 2
+even
+   
